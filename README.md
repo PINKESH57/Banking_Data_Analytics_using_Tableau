@@ -9,7 +9,7 @@ Stakeholder Insights and Performance Dashboard
 Author Name	Created Date	Version	Last Updated
 [Author Name]	[Created Date]	[Version]	[Last Updated]
 
-
+https://github.com/PINKESH57/Banking_Data_Analytics_using_Tableau/blob/main/Screenshot%202025-06-25%20013526.png
 
 
 
